@@ -139,7 +139,7 @@ section p{
 }
 /*background image section pertama*/
 .banner-area .banner-img{
-	background-image: url(img/rumah.jpg);
+	background-image: url(img/rumahhutan.jpg);
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -294,7 +294,7 @@ ul.about-content {
 
 .about-left {
 	flex-basis: 40%;
-	background-image: url(img/tepitasik2.jpg);
+	background-image: url(img/rumahbanyak.jpg);
 	background-position: center;
 
 }
