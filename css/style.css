@@ -185,7 +185,6 @@ section p{
 	width: 100%;
 
 }
-
 .banner-area h3 {
 	color: #b9e769;
 	margin-bottom: 40px;
@@ -294,7 +293,7 @@ ul.about-content {
 
 .about-left {
 	flex-basis: 40%;
-	background-image: url(img/rumahbanyak.jpg);
+	background-image: url(img/rumahbanyak);
 	background-position: center;
 
 }
